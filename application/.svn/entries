@@ -1,0 +1,80 @@
+10
+
+dir
+11
+http://admin@lumiaserver.no-ip.org/svn/lumiaproject/application
+http://admin@lumiaserver.no-ip.org/svn/lumiaproject
+
+
+
+2011-12-27T13:06:34.275887Z
+11
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00e90218-78ba-479a-ae75-b63f94a4ed29
+
+layouts
+dir
+
+models
+dir
+
+Bootstrap.php
+file
+
+
+
+
+2012-01-04T09:02:36.000000Z
+6ddebc954cf8c13267fd320be4be5728
+2011-06-30T20:58:10.891597Z
+1
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+529
+
+controllers
+dir
+
+forms
+dir
+
+configs
+dir
+
+views
+dir
+

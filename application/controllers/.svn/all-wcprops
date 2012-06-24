@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lumiaproject/!svn/ver/10/application/controllers
+END
+IssueController.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/application/controllers/IssueController.php
+END
+AdminController.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/application/controllers/AdminController.php
+END
+ErrorController.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/application/controllers/ErrorController.php
+END
+LogicController.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/application/controllers/LogicController.php
+END
+TaskController.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lumiaproject/!svn/ver/1/application/controllers/TaskController.php
+END
+ComponentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lumiaproject/!svn/ver/1/application/controllers/ComponentController.php
+END
+ProjectController.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lumiaproject/!svn/ver/10/application/controllers/ProjectController.php
+END
+MemberController.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lumiaproject/!svn/ver/1/application/controllers/MemberController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/application/controllers/IndexController.php
+END
+LoginController.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/application/controllers/LoginController.php
+END
+LogoutController.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lumiaproject/!svn/ver/1/application/controllers/LogoutController.php
+END
+ReportController.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lumiaproject/!svn/ver/1/application/controllers/ReportController.php
+END
+PageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lumiaproject/!svn/ver/8/application/controllers/PageController.php
+END
+ContractController.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lumiaproject/!svn/ver/1/application/controllers/ContractController.php
+END
+MypageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lumiaproject/!svn/ver/1/application/controllers/MypageController.php
+END

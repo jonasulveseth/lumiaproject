@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lumiaproject/!svn/ver/1/library/Zend/Service/DeveloperGarden/Client
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lumiaproject/!svn/ver/1/library/Zend/Service/DeveloperGarden/Client/Exception.php
+END
+ClientAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lumiaproject/!svn/ver/1/library/Zend/Service/DeveloperGarden/Client/ClientAbstract.php
+END
+Soap.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lumiaproject/!svn/ver/1/library/Zend/Service/DeveloperGarden/Client/Soap.php
+END

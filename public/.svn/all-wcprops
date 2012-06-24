@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/lumiaproject/!svn/ver/1/public
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/lumiaproject/!svn/ver/1/public/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/lumiaproject/!svn/ver/1/public/index.php
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+11
+http://admin@lumiaserver.no-ip.org/svn/lumiaproject
+http://admin@lumiaserver.no-ip.org/svn/lumiaproject
+
+
+
+2011-12-27T13:06:34.275887Z
+11
+admin
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+00e90218-78ba-479a-ae75-b63f94a4ed29
+
+.zfproject.xml
+file
+
+
+
+
+2012-01-04T09:02:51.000000Z
+3bfbd32650649943e12a676ef8d59946
+2011-06-30T20:58:10.891597Z
+1
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12091
+
+application
+dir
+
+docs
+dir
+
+library
+dir
+
+public
+dir
+
+tests
+dir
+

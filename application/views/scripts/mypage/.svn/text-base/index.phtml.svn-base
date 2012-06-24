@@ -1,0 +1,23 @@
+<div>
+  <a href="<?= $this->url(array('controller' => 'project' , 'action' => 'projects-list')) ?>">
+        <?= Lumiaproject_Translate::text('Projects') ?>
+  </a>
+</div>
+
+<div>
+<a href="<?= $this->url(array('controller' => 'issue' , 'action' => 'inex')) ?>">
+        <?= Lumiaproject_Translate::text('Issues') ?>
+</a>
+</div>
+
+<div>
+<a href="<?= $this->url(array('controller' => 'member' , 'action' => 'invite')) ?>">
+        <?= Lumiaproject_Translate::text('Invite Client') ?>
+</a>
+</div>
+
+<div>
+<a href="<?= $this->url(array('controller' => 'contract' , 'action' => 'index')) ?>">
+        <?= Lumiaproject_Translate::text('Contracts') ?>
+</a>
+</div>

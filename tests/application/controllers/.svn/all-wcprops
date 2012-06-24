@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers
+END
+ProjectControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/ProjectControllerTest.php
+END
+MemberControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/MemberControllerTest.php
+END
+AdminControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/AdminControllerTest.php
+END
+IssueControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/IssueControllerTest.php
+END
+LoginControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/LoginControllerTest.php
+END
+LogoutControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/LogoutControllerTest.php
+END
+ReportControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/ReportControllerTest.php
+END
+PageControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/PageControllerTest.php
+END
+ContractControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/ContractControllerTest.php
+END
+LogicControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/LogicControllerTest.php
+END
+ComponentControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/ComponentControllerTest.php
+END
+MypageControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/MypageControllerTest.php
+END
+TaskControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lumiaproject/!svn/ver/1/tests/application/controllers/TaskControllerTest.php
+END

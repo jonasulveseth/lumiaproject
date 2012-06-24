@@ -1,0 +1,5 @@
+<h1><?= Lumiaproject_Translate::text('You are now logged out') ?></h1>
+<div>
+<?= Lumiaproject_Translate::text('You have been logged out, you can login again by accessing the link below') ?>
+</div>
+<a href="<?= $this->url(array('controller' => 'login' , 'action' => 'index')) ?>"><?= Lumiaproject_Translate::text('Login Link') ?></a>

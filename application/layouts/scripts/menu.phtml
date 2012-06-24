@@ -1,0 +1,29 @@
+<?php
+/**
+ * Lumiastock
+ *
+ * @category   Lumiastock
+ * @package    Lumiastock
+ * @copyright  Copyright (c) 2010 Lumia AB (http://www.lumia.se)
+ * @version    $Id$
+ */
+
+?>
+<style type="text/css">
+  #menu li {
+
+    display: inline;
+    padding-right: 10px;
+}
+#menu ul {
+
+  text-decoration: none;
+}
+
+
+</style>
+<ul id="menu">
+  <li id="menu"><a href="<?= $this->url(array('controller' => 'login' , 'action' => 'index')) ?>"><?= Lumiaproject_Translate::text('Login') ?></a></li>
+  <li><a href="<?= $this->url(array('controller' => 'mypage' , 'action' => 'index')) ?>"><?= Lumiaproject_Translate::text('Mypage') ?></a></li>
+
+</ul>

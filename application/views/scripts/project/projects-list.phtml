@@ -1,0 +1,5 @@
+<h1><?= Lumiaproject_Translate::text('My Projects') ?></h1>
+<a href="<?= $this->url(array('controller' => 'project' , 'action' => 'new')) ?>">Add new project</a>
+<?php foreach($this->projects as $project): ?>
+<a href="<?= $this->url(array('controller' => 'project' , 'action' => 'index','projectId' => $project->id_project)) ?>"><?= $project->name; ?></a>
+<?php endforeach; ?>

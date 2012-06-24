@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <?php $this->headLink()->appendStylesheet($this->baseUrl().'/css/extras.css'); ?>
+        <?php $this->headLink()->appendStylesheet($this->baseUrl().'/css/screen.css', 'screen , projection'); ?>
+        <?php $this->headLink()->appendStylesheet($this->baseUrl().'/css/ie.css', 'IE', true); ?>
+        <?php $this->headLink()->appendStylesheet($this->baseUrl().'/css/print.css', 'print'); ?>
+        <?php $this->headLink()->appendStylesheet($this->baseUrl().'/css/smoothness/jquery-ui-1.8.7.custom.css'); ?>
+        <?php
+
+        echo $this->jQuery()
+                        ->setVersion('1.4.2')
+                        ->setUiVersion('1.8.7'); ?>
+        <?php echo $this->headLink() ?>
+
+
+        <title><?php echo $this->escape($this->headTitle); ?></title>
+    </head>
+  <body>
+     <div class="container">
+    <div class="banner" style="margin: auto">
+      <div style="float: left">
+        <a href="<?= $this->url(array('controller' => 'index' , 'action' => 'index')) ?>" title="<?= Lumiaproject_Translate::text('Back to first page') ?>">
+          <img src="<?= $this->baseUrl()?>/images/logo.png" alt="Logo" />
+        </a>
+      </div>
+    </div>
+     
+        <div class="append-6 span-12 prepend-12 last">
+         <?= Lumiaproject_FlashMessenger::flashMessenger()  ?>
+        </div>
+      <div style="clear: both;"><?= $this->render('menu.phtml') ?></div>
+    
+    
+<?php echo $this->layout()->content; ?>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+<h1><?= $this->projectName ?></h1>
+<h2>Pages</h2>
+<div class="span-2 first colborder"><a href="<?= $this->url(array('controller' => 'page' , 'action' => 'new'),null,false) ?>" class="button">
+  New Page
+  </a></div>
+<div class="span-5 append-16 append-bottom last">
+
+  <a href="<?= $this->url(array('controller' => 'page' ,'action' => 'add-to-project'),null,false) ?>" class="button">Add existing page to project</a>
+</div>
+<div class="span-24 border">
+<?php foreach($this->pageList as $pageList):  ?>
+  <div>
+    <a href="<?= $this->url(array('controller' => 'page' , 'action' => 'index' , null , 'pageId' => $pageList['id']), null , false) ?>" class="span-12 box"><?= $pageList->name ?></a>
+  </div>
+
+
+<?php endforeach;  ?>
+</div>
