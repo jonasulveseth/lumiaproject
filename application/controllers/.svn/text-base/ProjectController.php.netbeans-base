@@ -80,7 +80,7 @@ class ProjectController extends Zend_Controller_Action
       
     }
 
-    public function pagesAction()
+    public function pages()
     {
        //get project
      $projectId = $this->_getParam('projectId');
