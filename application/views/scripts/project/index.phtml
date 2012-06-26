@@ -2,7 +2,21 @@
 
 
 <div class="span-24 last">
-  
-  valg..
-  
+
+    <a href="<?= $this->url(array('controller' => 'project', 'action' => 'pages')) ?>" class="button">Se webbsider i dette projekt</a>
+
+</div>
+
+<div class="span-24 last" style="margin-top: 25px">
+    <h2>Todos</h2>
+
+    <?php foreach ($this->tasks as $task): ?>
+
+        <div>
+            <a href="<?= $this->url(array('controller' => 'issue', 'action' => 'edit', 'issueId' => $task->id_issue)) ?>">
+                <?= $task->title ?>
+            </a>
+        </div>
+
+    <?php endforeach; ?>
 </div>

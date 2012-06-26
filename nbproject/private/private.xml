@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/controllers/ProjectController.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/views/scripts/admin/index.phtml</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/views/scripts/project/projects-list.phtml</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/views/scripts/project/index.phtml</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/models/DbTable/Issue.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/models/DbTable/Project.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/views/scripts/task/new.phtml</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/controllers/TaskController.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/library/Lumiaproject/Translate.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/public/css/extras.css</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/controllers/IssueController.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/forms/Issue.php</file>
+        <file>file:/Applications/MAMP/htdocs/lumiaproject/application/views/scripts/issue/edit.phtml</file>
+    </open-files>
 </project-private>

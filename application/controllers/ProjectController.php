@@ -11,7 +11,11 @@ class ProjectController extends Zend_Controller_Action
     public function indexAction()
     {
     
+     // get all task from this projekt
+     $taskModel = new Application_Model_DbTable_Issue();
+     $tasks = $taskModel->fetchAll();
      
+     $this->view->tasks = $tasks;
 
 
     }
